@@ -1,11 +1,13 @@
 {
   "appId": "com.novacentauria.atlas",
-  "versionCode": 28,
-  "versionName": "0.28.0-beta",
+  "versionCode": 29,
+  "versionName": "0.29.0-beta",
   "downloadUrl": "https://raw.githubusercontent.com/Valentinesfalls/Atlas-RPG-Updates/main/Atlas-RPG-Notes.apk",
   "notes": [
-    "Nome do aplicativo atualizado para Atlas RPG Notes.",
-    "Backup movido para a seção Ficha.",
-    "Canal de atualização via APK mantido."
+    "Tela de abertura: Desenvolvido por ShadowHeart.",
+    "Escolha de agente Mestre ou Jogador, com ID local para jogador.",
+    "Controle do clima restrito ao Mestre.",
+    "Combate demonstrativo removido; só aparece quando atribuído.",
+    "Botão do Códice à direita do botão de atualização."
   ]
 }
