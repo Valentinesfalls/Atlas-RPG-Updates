@@ -1,0 +1,11 @@
+{
+  "appId": "com.novacentauria.atlas",
+  "versionCode": 28,
+  "versionName": "0.28.0-beta",
+  "downloadUrl": "https://raw.githubusercontent.com/Valentinesfalls/Atlas-RPG-Updates/main/Atlas-RPG-Notes.apk",
+  "notes": [
+    "Nome do aplicativo atualizado para Atlas RPG Notes.",
+    "Backup movido para a seção Ficha.",
+    "Canal de atualização via APK mantido."
+  ]
+}
