@@ -1,13 +1,12 @@
 {
   "appId": "com.novacentauria.atlas",
-  "versionCode": 30,
-  "versionName": "0.30.0-beta",
+  "versionCode": 31,
+  "versionName": "0.31.0-beta",
   "downloadUrl": "https://raw.githubusercontent.com/Valentinesfalls/Atlas-RPG-Updates/main/Atlas-RPG-Notes.apk",
   "notes": [
-    "Avatar System v1: editor opcional de personagem em pixel art sombrio, corpo inteiro e visão em 3/4.",
-    "4 a 5 opções por categoria, incluindo Nenhum nos itens opcionais.",
-    "Avatar salvo dentro da ficha; permanece no backup e na exportação JSON.",
-    "Ferramentas Aleatório, Limpar, Pular e Salvar avatar.",
-    "Atualização a partir da v29 com assinatura permanente."
+    "Retrato circular do tórax para cima na Ficha.",
+    "Novas expressões faciais e poses de braços no editor.",
+    "Carta de novidades após atualizar, com opção de reler.",
+    "Retrato preparado para futuros tokens do combate em grid."
   ]
 }
