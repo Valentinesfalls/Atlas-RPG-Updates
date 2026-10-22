@@ -1,13 +1,13 @@
 {
   "appId": "com.novacentauria.atlas",
-  "versionCode": 29,
-  "versionName": "0.29.0-beta",
+  "versionCode": 30,
+  "versionName": "0.30.0-beta",
   "downloadUrl": "https://raw.githubusercontent.com/Valentinesfalls/Atlas-RPG-Updates/main/Atlas-RPG-Notes.apk",
   "notes": [
-    "Tela de abertura: Desenvolvido por ShadowHeart.",
-    "Escolha de agente Mestre ou Jogador, com ID local para jogador.",
-    "Controle do clima restrito ao Mestre.",
-    "Combate demonstrativo removido; só aparece quando atribuído.",
-    "Botão do Códice à direita do botão de atualização."
+    "Avatar System v1: editor opcional de personagem em pixel art sombrio, corpo inteiro e visão em 3/4.",
+    "4 a 5 opções por categoria, incluindo Nenhum nos itens opcionais.",
+    "Avatar salvo dentro da ficha; permanece no backup e na exportação JSON.",
+    "Ferramentas Aleatório, Limpar, Pular e Salvar avatar.",
+    "Atualização a partir da v29 com assinatura permanente."
   ]
 }
