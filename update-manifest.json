@@ -1,12 +1,12 @@
 {
   "appId": "com.novacentauria.atlas",
-  "versionCode": 32,
-  "versionName": "0.32.0-beta",
+  "versionCode": 34,
+  "versionName": "0.33.3-beta",
   "downloadUrl": "https://raw.githubusercontent.com/Valentinesfalls/Atlas-RPG-Updates/main/Atlas-RPG-Notes.apk",
   "notes": [
-    "A carta mostra a versão anterior conhecida e a versão instalada.",
-    "Novidades acumuladas quando o jogador pula uma ou mais versões.",
-    "Carta redesenhada como um grimório arcano, com identidade visual do Atlas e retrato do aventureiro quando disponível.",
-    "Histórico de versões consultável pela opção Ver novidades, mesmo depois de fechar a carta."
+    "Retrato personalizado a partir de foto escolhida no celular.",
+    "Enquadramento manual: arrastar, pinça, ampliar e reenquadrar.",
+    "13 molduras de identidade racial e 14 efeitos animados por classe.",
+    "Copiar ID real do jogador; exportar token em PNG."
   ]
 }
