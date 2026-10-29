@@ -1,13 +1,12 @@
 {
   "appId": "com.novacentauria.atlas",
-  "versionCode": 36,
-  "versionName": "0.34.33.1-beta",
+  "versionCode": 37,
+  "versionName": "0.34.33.2-beta",
   "downloadUrl": "https://raw.githubusercontent.com/Valentinesfalls/Atlas-RPG-Updates/main/Atlas-RPG-Notes.apk",
   "notes": [
-    "Correção da abertura do aplicativo Android: caminho local da WebView.",
-    "Integração de ganhos raciais e de classes na criação e progressão da ficha.",
-    "Ajustes de habilidades humanas e escolha de duas fontes de poder.",
-    "Tela de carregamento com rosa iluminada conforme a porcentagem.",
-    "Motor de efeitos e custos de recursos, além de ferramentas de segurança das fichas."
+    "Versão Android final: removidos controles de laboratório HTML.",
+    "Ícone original do Atlas restaurado.",
+    "Carregamento somente na abertura do aplicativo.",
+    "Tela de novidades da atualização restaurada."
   ]
 }
