@@ -1,12 +1,12 @@
 {
   "appId": "com.novacentauria.atlas",
-  "versionCode": 37,
-  "versionName": "0.34.33.2-beta",
+  "versionCode": 38,
+  "versionName": "0.34.34-beta",
   "downloadUrl": "https://raw.githubusercontent.com/Valentinesfalls/Atlas-RPG-Updates/main/Atlas-RPG-Notes.apk",
   "notes": [
-    "Versão Android final: removidos controles de laboratório HTML.",
-    "Ícone original do Atlas restaurado.",
-    "Carregamento somente na abertura do aplicativo.",
-    "Tela de novidades da atualização restaurada."
+    "Loading em tela cheia com modo imersivo Android.",
+    "Rosa dourada e animação somente na abertura real.",
+    "O que há de novo com histórico detalhado de mudanças documentadas da v34.33 e v34.34.",
+    "Preservação da identidade do aplicativo e armazenamento local."
   ]
 }
