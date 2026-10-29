@@ -1,12 +1,12 @@
 {
   "appId": "com.novacentauria.atlas",
-  "versionCode": 34,
-  "versionName": "0.33.3-beta",
+  "versionCode": 35,
+  "versionName": "0.34.33-beta",
   "downloadUrl": "https://raw.githubusercontent.com/Valentinesfalls/Atlas-RPG-Updates/main/Atlas-RPG-Notes.apk",
   "notes": [
-    "Retrato personalizado a partir de foto escolhida no celular.",
-    "Enquadramento manual: arrastar, pinça, ampliar e reenquadrar.",
-    "13 molduras de identidade racial e 14 efeitos animados por classe.",
-    "Copiar ID real do jogador; exportar token em PNG."
+    "Integração de ganhos raciais e de classes na criação e progressão da ficha.",
+    "Ajustes de habilidades humanas e escolha de duas fontes de poder.",
+    "Tela de carregamento com rosa iluminada conforme a porcentagem.",
+    "Motor de efeitos e custos de recursos, além de ferramentas de segurança das fichas."
   ]
 }
